@@ -1,0 +1,42 @@
+[
+    {
+        "title": "project",
+        "description": "assignment",
+        "code": "print(\"How to manage time \")",
+        "language": "python",
+        "category": "code",
+        "tags": [
+            "daily activity"
+        ]
+    },
+    {
+        "title": "Project 3",
+        "description": "this is ml project",
+        "code": "prnt(\"Lets begin with basics\")",
+        "language": "python",
+        "category": "ml",
+        "tags": [
+            "AI"
+        ]
+    },
+    {
+        "title": "project",
+        "description": "assignment",
+        "code": "print(\"How to manage time \")",
+        "language": "python",
+        "category": "code",
+        "tags": [
+            "daily activity"
+        ]
+    },
+    {
+        "title": "Project 3",
+        "description": "this is ml project",
+        "code": "prnt(\"Lets begin with basics\")",
+        "language": "python",
+        "category": "ml",
+        "tags": [
+            "AI"
+        ]
+    }
+]
